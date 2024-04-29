@@ -12,7 +12,7 @@ const Food = () => {
                 <li>{food1}</li>
                 <li>{food2}</li>
                 <li>{food3}</li>
-                <li></li>
+                <li>apple</li>
          </ul>
     </div>
   )
