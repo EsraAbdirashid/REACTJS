@@ -3,7 +3,11 @@ import React from 'react'
 const Card = () => {
   return (
     <> 
-    <Card/>
+   <Card> 
+        <img src="" alt="" />
+        <h1>Esra Abdirashid</h1>
+        
+   </Card>
     </>
   )
 }
