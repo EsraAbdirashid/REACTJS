@@ -6,7 +6,7 @@ const Card = () => {
    <Card> 
         <img src="" alt="" />
         <h1>Esra Abdirashid</h1>
-        
+        <p>i am adeverloper and designer...😋</p>
    </Card>
     </>
   )
