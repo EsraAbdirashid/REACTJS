@@ -4,6 +4,7 @@ import Footer from './Footer'
 import Tijaabo from './Tijaabo'
 import Food from './Food'
 import Card from './Card'
+import Button from './Button'
 
 const App = () => {
   return (
@@ -14,6 +15,8 @@ const App = () => {
       <Card/>
       <Card/>
       <Card/>
+
+      <Button/>
       <Footer/>
 
     </div>
