@@ -3,17 +3,17 @@ import React from 'react'
 const Button = () => {
 const styles ={
 
-                backgroundcolor: "brown",
+                backgroundColor: "brown",
                 color: "white",
                 padding: "20px 40px",
-                borderradius: "5px",
+                borderRadius: "5px",
                 border: "none",
                 cursor: "pointer",
-                fontsize: "large",
+                fontSize: "large",
         
 }
 
-  return ( <button className='Button'>Click Me</button> );
+  return ( <button style={styles}>Click Me</button> );
 }
 
 export default Button
