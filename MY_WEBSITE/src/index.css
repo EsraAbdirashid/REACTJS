@@ -8,10 +8,12 @@
         max-width: 250px;
         display: inline-block;
 }
+.Card-image {
+        width: 100px;
+        height: 100px;
+}
 
 .Card .Card-image{
-        max-width: 60%;
-        height: auto;
         border-radius: 50%;
         margin-bottom: 10px;
 }
