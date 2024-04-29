@@ -18,3 +18,8 @@
         margin-bottom: 10px;
 }
 
+ .Card .card-title {
+        font-family: Arial,  sans-serif;
+        margin: 0;
+        color: hsl(0, 0%, 20%);
+ }
