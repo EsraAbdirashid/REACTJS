@@ -7,8 +7,8 @@ const Card = () => {
      <div className='Card'>
        {/* <img src={profilePic} alt="profile picture"></img> */}
        <img src="./public/soft.JPG" alt="" className='Card-image' />
-        <h1>Esra Abdirashid</h1>
-        <p>i am adeverloper and designer...😋</p>
+        <h1 className='card-title'>Esra Abdirashid</h1>
+        <p className='card-text'>i am adeverloper and designer...😋</p>
  
         </div>
   )
