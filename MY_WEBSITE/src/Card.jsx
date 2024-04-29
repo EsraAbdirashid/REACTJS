@@ -6,7 +6,7 @@ const Card = () => {
   
      <div className='Card'>
        {/* <img src={profilePic} alt="profile picture"></img> */}
-       <img src="./public/soft.JPG" alt="" />
+       <img src="./public/soft.JPG" alt="" className='Card-image' />
         <h1>Esra Abdirashid</h1>
         <p>i am adeverloper and designer...😋</p>
  
