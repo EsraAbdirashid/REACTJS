@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from './assets/About-img.png';
+import profilePic from './assets/soft.jpg';
 
 const Card = () => {
   return (
