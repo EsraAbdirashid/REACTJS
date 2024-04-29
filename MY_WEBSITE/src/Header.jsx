@@ -13,7 +13,9 @@ const Header = () => {
                       <li><a href="#">Contact</a></li>
                 </ul>
         </nav>
+        <hr />
     </div>
+    
   )
 }
 
