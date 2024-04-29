@@ -2,8 +2,9 @@ import React from 'react'
 
 const Food = () => {
 
-        const food1 = "Liinmcn";
-        
+        const food1 = "Liin-mcn";
+        const food2 = "Moos"
+
   return (
     <div>
         
