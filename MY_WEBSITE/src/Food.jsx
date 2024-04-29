@@ -11,7 +11,7 @@ const Food = () => {
          <ul>
                 <li>{food1}</li>
                 <li>{food2}</li>
-                <li>{food3}</li>
+                <li>{food3 .toUpperCase ()}</li>
                 <li>apple</li>
          </ul>
     </div>
