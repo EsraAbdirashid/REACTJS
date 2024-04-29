@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
         <footer>
-        <h3> @copy; 2024</h3>
+        <h3>&copy; 2024</h3>
         </footer>
      
     </div>
