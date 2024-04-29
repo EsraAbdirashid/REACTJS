@@ -12,6 +12,8 @@ const App = () => {
       <Tijaabo/>
       <Food/>
       <Card/>
+      <Card/>
+      <Card/>
       <Footer/>
 
     </div>
