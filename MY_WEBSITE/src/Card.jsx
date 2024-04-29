@@ -1,11 +1,11 @@
 import React from 'react'
-import profile-pic from './assets/About-img.png'
+import
 
 const Card = () => {
   return (
   
      <div className='Card'>
-        <img src="{profile-pic}"  />
+       <img src={} alt='profile picture'></img>
         <h1>Esra Abdirashid</h1>
         <p>i am adeverloper and designer...😋</p>
  
